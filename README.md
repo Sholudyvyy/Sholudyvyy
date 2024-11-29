@@ -16,17 +16,17 @@
 
 ## 📂 **My Projects:**
 
-### 🚴 **[MyBike](#)**  
+### 🚴 **MyBike**  
 A landing page presenting electric bicycles with responsive design, a contact form, and a menu.
 - 🎥 [DEMO](https://sholudyvyy.github.io/mybike-landing-page/)
 - 💻 [CODE](https://github.com/Sholudyvyy/mybike-landing-page)
 
-### ✅ **[TodoApp](#)**  
+### ✅ **TodoApp**  
 A to-do list manager where users can add, complete, and delete tasks. Built with TypeScript + React.
 - 🎥 [DEMO](https://sholudyvyy.github.io/todoApp/)
 - 💻 [CODE](https://github.com/Sholudyvyy/todoApp)
 
-### 📱 **[React Phone Catalog](#)**  
+### 📱 **React Phone Catalog**  
 An online electronics store for mobile phones, tablets, and accessories. Features include bilingual support and a shopping cart. Built with React, TypeScript, and Redux.
 - 🎥 [DEMO](https://fe-aug-24-team-1.github.io/frontend/)
 - 💻 [CODE](https://github.com/fe-aug-24-team-1/frontend)
@@ -35,8 +35,8 @@ An online electronics store for mobile phones, tablets, and accessories. Feature
 
 ## 📊 **GitHub Stats:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sholudyvyy&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sholudyvyy&layout=compact&theme=radical" alt="Top Langs" height="165">
 </p>
 
 ---
