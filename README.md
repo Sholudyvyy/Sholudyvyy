@@ -42,5 +42,5 @@ An online electronics store for mobile phones, tablets, and accessories. Feature
 ---
 
 ## 🤝 **Connect with Me:**
-- 🌐 [LinkedIn](www.linkedin.com/in/stanislav-hohulia)
+- 🌐 [LinkedIn](https://linkedin.com/in/stanislav-hohulia)
 - 📩 [Telegram](https://t.me/stashohulia)
