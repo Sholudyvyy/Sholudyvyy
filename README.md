@@ -2,8 +2,6 @@
 
 🎯 I'm looking for exciting opportunities to work and develop modern web applications. I specialize in **React**, **TypeScript**, and **Node.js**, with experience in creating responsive, interactive interfaces and working with REST APIs.
 
----
-
 ## 🤝 **Connect with Me:**
 - 🌐 [LinkedIn](https://linkedin.com/in/stanislav-hohulia)
 - 📩 [Telegram](https://t.me/stashohulia)
