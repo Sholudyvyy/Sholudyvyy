@@ -4,6 +4,12 @@
 
 ---
 
+## 🤝 **Connect with Me:**
+- 🌐 [LinkedIn](https://linkedin.com/in/stanislav-hohulia)
+- 📩 [Telegram](https://t.me/stashohulia)
+
+---
+
 ## 🛠️ **My Skills:**
 - **Frontend:** TypeScript, JavaScript, HTML5, CSS3 (Sass, BEM), React (Router, Redux-toolkit).
 - **Backend:** Node.js, REST API, Web Sockets.
@@ -38,9 +44,3 @@ An online electronics store for mobile phones, tablets, and accessories. Feature
   <img src="https://github-readme-stats.vercel.app/api?username=Sholudyvyy&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sholudyvyy&layout=compact&theme=radical" alt="Top Langs" height="165">
 </p>
-
----
-
-## 🤝 **Connect with Me:**
-- 🌐 [LinkedIn](https://linkedin.com/in/stanislav-hohulia)
-- 📩 [Telegram](https://t.me/stashohulia)
