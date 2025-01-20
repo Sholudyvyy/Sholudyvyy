@@ -10,8 +10,8 @@
 
 ## 🛠️ **My Skills:**
 - **Frontend:** TypeScript, JavaScript, HTML5, CSS3 (Sass, BEM), React (Router, Redux-toolkit, React Native), Vue (Pinie).
-- **Backend:** Node.js, REST API, Web Sockets, Axios.
-- **Tools:** Git, Webpack, Vite, Eslint, Canva, Figma.
+- **Backend:** Node.js, Express.js, REST API, Axios.
+- **Tools:** Git, MongoDB, Vite, Eslint, Canva, Figma.
 - **Methodologies:** SDLC, Agile (Scrum, Kanban), Waterfall.
 - **Basics:** OOP, basic knowledge of C, C++, C#, Java, Python.
 - **Language Proficiency:** English B1.
