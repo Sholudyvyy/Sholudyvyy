@@ -20,15 +20,10 @@
 
 ## 📂 **My Projects:**
 
-### 🚴 **MyBike**  
-A landing page presenting electric bicycles with responsive design, a contact form, and a menu.
-- 🎥 [DEMO](https://sholudyvyy.github.io/mybike-landing-page/)
-- 💻 [CODE](https://github.com/Sholudyvyy/mybike-landing-page)
-
-### ✅ **React TodoApp**  
-A to-do list manager where users can add, complete, and delete tasks. Built with TypeScript + React.
-- 🎥 [DEMO](https://sholudyvyy.github.io/todoApp/)
-- 💻 [CODE](https://github.com/Sholudyvyy/todoApp)
+### ✅ **Node.js + React Movie library**  
+Convenient web application for managing your personal movie collection, built with Node.js, Express.js, Axios, React, Redux, MongoDB.
+- 🎥 [DEMO](https://film-tracker-7uyhdcl94-stas-hohulias-projects.vercel.app/)
+- 💻 [CODE](https://github.com/Sholudyvyy/FilmTracker)
 
 ### ✅ **Vue ProjectFlow**  
 A powerful single-page application for seamless project and task management, built with Vue, Pinie, Axios.
@@ -39,6 +34,16 @@ A powerful single-page application for seamless project and task management, bui
 An online electronics store for mobile phones, tablets, and accessories. Features include bilingual support and a shopping cart. Built with React, TypeScript, and Redux.
 - 🎥 [DEMO](https://fe-aug-24-team-1.github.io/frontend/)
 - 💻 [CODE](https://github.com/fe-aug-24-team-1/frontend)
+
+### ✅ **React TodoApp**  
+A to-do list manager where users can add, complete, and delete tasks. Built with TypeScript + React.
+- 🎥 [DEMO](https://sholudyvyy.github.io/todoApp/)
+- 💻 [CODE](https://github.com/Sholudyvyy/todoApp)
+
+### 🚴 **MyBike**  
+A landing page presenting electric bicycles with responsive design, a contact form, and a menu.
+- 🎥 [DEMO](https://sholudyvyy.github.io/mybike-landing-page/)
+- 💻 [CODE](https://github.com/Sholudyvyy/mybike-landing-page)
 
 ---
 
