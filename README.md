@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Full Stack Developer!
+# 👋 Hi, I'm a Frontend Developer!
 
 🎯 I'm looking for exciting opportunities to work and develop modern web applications. I specialize in **React**, **TypeScript**, and **Node.js**, with experience in creating responsive, interactive interfaces and working with REST APIs.
 
