@@ -1,54 +1,79 @@
-# 👋 Hi, I'm a Frontend Developer!
+<!-- SECTION: Hero -->
+# Stanislav Hohulia — Fullstack Engineer
 
-🎯 I'm looking for exciting opportunities to work and develop modern web applications. I specialize in **React**, **TypeScript**, and **Node.js**, with experience in creating responsive, interactive interfaces and working with REST APIs.
+### Node.js · Vue.js · AWS
 
-## 🤝 **Connect with Me:**
-- 🌐 [LinkedIn](https://linkedin.com/in/stanislav-hohulia)
-- 📩 [Telegram](https://t.me/stashohulia)
+2+ years of commercial experience in product teams and freelance. Worked at Dnipro-M — a product with 3.7M+ monthly visitors across 10+ countries. Delivered 5+ freelance projects end-to-end, from MVPs to performance-critical systems.
 
----
+**Selected results:**<br>
+▸ +43% Core Web Vitals — initiated and led architecture refactoring + Webpack optimization<br>
+▸ 800ms → 120ms API response — independently identified the bottleneck, resolved with Redis caching
 
-## 🛠️ **My Skills:**
-- **Frontend:** TypeScript, JavaScript, HTML5, CSS3 (Sass, BEM), React (Router, Redux-toolkit, React Native), Vue (Pinie).
-- **Backend:** Node.js, Express.js, REST API, Axios.
-- **Tools:** Git, MongoDB, Vite, Eslint, Canva, Figma.
-- **Methodologies:** SDLC, Agile (Scrum, Kanban), Waterfall.
-- **Basics:** OOP, basic knowledge of C, C++, C#, Java, Python.
-- **Language Proficiency:** English B1.
+📍 Kyiv, Ukraine &nbsp;·&nbsp; 🇬🇧 English B2 &nbsp;·&nbsp; ✅ Open to work
 
 ---
 
-## 📂 **My Projects:**
+<!-- SECTION: Tech Stack -->
+## 🛠 Tech Stack
 
-### 🎥 **Node.js + React Movie library**  
-Convenient web application for managing your personal movie collection, built with Node.js, Express.js, Axios, React, Redux, MongoDB.
-- 🎥 [DEMO](https://film-tracker-7uyhdcl94-stas-hohulias-projects.vercel.app/)
-- 💻 [CODE](https://github.com/Sholudyvyy/FilmTracker)
+**Backend**
 
-### 📂🔄 **Vue ProjectFlow**  
-A powerful single-page application for seamless project and task management, built with Vue, Pinie, Axios.
-- 🎥 [DEMO](https://sholudyvyy.github.io/project-flow/#/)
-- 💻 [CODE](https://github.com/Sholudyvyy/project-flow)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### 📱 **React Phone Catalog**  
-An online electronics store for mobile phones, tablets, and accessories. Features include bilingual support and a shopping cart. Built with React, TypeScript, and Redux.
-- 🎥 [DEMO](https://fe-aug-24-team-1.github.io/frontend/)
-- 💻 [CODE](https://github.com/fe-aug-24-team-1/frontend)
+**Frontend**
 
-### 📝 **React TodoApp**  
-A to-do list manager where users can add, complete, and delete tasks. Built with TypeScript + React.
-- 🎥 [DEMO](https://sholudyvyy.github.io/todoApp/)
-- 💻 [CODE](https://github.com/Sholudyvyy/todoApp)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
-### 🚴 **MyBike**  
-A landing page presenting electric bicycles with responsive design, a contact form, and a menu.
-- 🎥 [DEMO](https://sholudyvyy.github.io/mybike-landing-page/)
-- 💻 [CODE](https://github.com/Sholudyvyy/mybike-landing-page)
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📊 **GitHub Stats:**
+<!-- SECTION: Projects — fill in name, links, and description for each -->
+## 🚀 Selected Projects
+
+**[Project Name]([repo-link])**
+One sentence describing what it does and what problem it solves.
+`Node.js` · `NestJS` · `TypeScript` · `Redis`
+[[Repo]([repo-link])] · [[Live Demo]([live-demo-link])]
+
+**[Project Name]([repo-link])**
+One sentence describing what it does and what problem it solves.
+`Vue.js` · `Vuex` · `TypeScript` · `AWS`
+[[Repo]([repo-link])] · [[Live Demo]([live-demo-link])]
+
+**[Project Name]([repo-link])**
+One sentence describing what it does and what problem it solves.
+`Node.js` · `Vue.js` · `Docker` · `Webpack`
+[[Repo]([repo-link])] · [[Live Demo]([live-demo-link])]
+
+---
+
+<!-- SECTION: GitHub Stats -->
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sholudyvyy&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sholudyvyy&layout=compact&theme=radical" alt="Top Langs" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sholudyvyy&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sholudyvyy&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholudyvyy&theme=dark&hide_border=true" height="150" />
+</p>
+
+---
+
+<!-- SECTION: Contact -->
+## 📬 Let's Talk
+
+🌐 [stashohulia.dev](https://stashohulia.dev/)
+💼 [linkedin.com/in/stanislav-hohulia](https://linkedin.com/in/stanislav-hohulia)
+📧 stashohulia@gmail.com
+✈️ [t.me/stanislavhohulia](https://t.me/stanislavhohulia)
