@@ -1,6 +1,8 @@
 <!-- SECTION: Hero -->
 # Stanislav Hohulia — Fullstack Engineer
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sholudyvyy&style=flat-square)
+
 ### Node.js · Vue.js · AWS
 
 2+ years of commercial experience in product teams and freelance. Worked at Dnipro-M — a product with 3.7M+ monthly visitors across 10+ countries. Delivered 5+ freelance projects end-to-end, from MVPs to performance-critical systems.
@@ -65,7 +67,7 @@ One sentence describing what it does and what problem it solves.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sholudyvyy&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sholudyvyy&theme=dark&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=Sholudyvyy&theme=dark&hide_border=true" height="150" />
 </p>
 
 ---
