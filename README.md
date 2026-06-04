@@ -1,7 +1,6 @@
 <!-- SECTION: Hero -->
 # Stanislav Hohulia — Fullstack Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hradivnyk&style=flat-square)
 
 ### Node.js · Vue.js · AWS
 
@@ -63,11 +62,10 @@ One sentence describing what it does and what problem it solves.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hradivnyk&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hradivnyk&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hradivnyk&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hradivnyk&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hradivnyk&theme=github-compact&hide_border=true" />
 </p>
 
 ---
