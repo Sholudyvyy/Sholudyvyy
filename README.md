@@ -15,6 +15,10 @@
 <!-- SECTION: Tech Stack -->
 ## 🛠 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 <details open>
 <summary><b>Backend</b></summary>
 <br>
@@ -57,6 +61,15 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </details>
+
+</td>
+<td valign="top" align="center" width="40%">
+
+<img src="assets/programmer.webp" alt="Programmer" width="300"/>
+
+</td>
+</tr>
+</table>
 
 <!-- SECTION: Projects — fill in name, links, and description for each -->
 ## 🚀 Selected Projects
