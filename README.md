@@ -15,9 +15,9 @@
 <!-- SECTION: Tech Stack -->
 ## 🛠 Tech Stack
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="60%">
+<div style="display: flex; align-items: center; gap: 24px; width: 100%;">
+
+<div style="flex: 3;">
 
 <details open>
 <summary><b>Backend</b></summary>
@@ -62,14 +62,13 @@
 
 </details>
 
-</td>
-<td valign="middle" align="center" width="40%">
+</div>
 
+<div style="flex: 2; display: flex; justify-content: center; align-items: center;">
 <img src="assets/programmer.webp" alt="Programmer" width="300"/>
+</div>
 
-</td>
-</tr>
-</table>
+</div>
 
 <!-- SECTION: Projects — fill in name, links, and description for each -->
 ## 🚀 Selected Projects
