@@ -15,7 +15,7 @@
 <!-- SECTION: Tech Stack -->
 ## 🛠 Tech Stack
 
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="60%">
 
@@ -63,7 +63,7 @@
 </details>
 
 </td>
-<td valign="top" align="center" width="40%">
+<td valign="middle" align="center" width="40%">
 
 <img src="assets/programmer.webp" alt="Programmer" width="300"/>
 
