@@ -15,7 +15,7 @@
 <!-- SECTION: Tech Stack -->
 ## 🛠 Tech Stack
 
-<details>
+<details open>
 <summary><b>Backend</b></summary>
 <br>
 
@@ -28,7 +28,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>Frontend</b></summary>
 <br>
 
@@ -39,7 +39,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>Testing</b></summary>
 <br>
 
@@ -48,7 +48,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>Tools & Practices</b></summary>
 <br>
 
@@ -61,20 +61,20 @@
 <!-- SECTION: Projects — fill in name, links, and description for each -->
 ## 🚀 Selected Projects
 
-[Project Name]
+**[Project Name](https://github.com/Hradivnyk)**
 One sentence describing what it does and what problem it solves.
-Node.js · NestJS · TypeScript · Redis
-Repo (https://github.com/Hradivnyk/Hradivnyk/blob/main/repo-link) · Live Demo (https://github.com/Hradivnyk/Hradivnyk/blob/main/live-demo-link)
+`Node.js` · `NestJS` · `TypeScript` · `Redis`
+[Repo](https://github.com/Hradivnyk) · [Live Demo](#)
 
-[Project Name]
+**[Project Name](https://github.com/Hradivnyk)**
 One sentence describing what it does and what problem it solves.
-Vue.js · React · TypeScript · AWS
-Repo (https://github.com/Hradivnyk/Hradivnyk/blob/main/repo-link) · Live Demo (https://github.com/Hradivnyk/Hradivnyk/blob/main/live-demo-link)
+`Vue.js` · `React` · `TypeScript` · `AWS`
+[Repo](https://github.com/Hradivnyk) · [Live Demo](#)
 
-[Project Name]
+**[Project Name](https://github.com/Hradivnyk)**
 One sentence describing what it does and what problem it solves.
-Node.js · Vue.js · Docker · Next.js
-Repo (https://github.com/Hradivnyk/Hradivnyk/blob/main/repo-link) · Live Demo (https://github.com/Hradivnyk/Hradivnyk/blob/main/live-demo-link)
+`Node.js` · `Vue.js` · `Docker` · `Next.js`
+[Repo](https://github.com/Hradivnyk) · [Live Demo](#)
 
 <!-- SECTION: GitHub Stats -->
 ## ⚙️ &nbsp;GitHub Analytics
@@ -89,9 +89,8 @@ Repo (https://github.com/Hradivnyk/Hradivnyk/blob/main/repo-link) · Live Demo (
 <!-- SECTION: Contact -->
 ## 📬 Let's Talk
 
-[![Website](https://img.shields.io/badge/Website-stashohulia.dev-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stashohulia.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stanislav%20Hohulia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stanislav-hohulia)
-[![Gmail](https://img.shields.io/badge/Gmail-stashohulia@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stashohulia@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@stanislavhohulia-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stanislavhohulia)
+[![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stashohulia.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stanislav-hohulia) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stanislavhohulia)
+
+Or write to me by email: `stashohulia@gmail.com`
 
 ![Animated sparkle banner](assets/sparkle-banner.svg)
