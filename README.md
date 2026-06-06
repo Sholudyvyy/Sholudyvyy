@@ -45,20 +45,25 @@
 <!-- SECTION: Projects — fill in name, links, and description for each -->
 ## 🚀 Selected Projects
 
-**[Project Name](https://github.com/Hradivnyk)**
-One sentence describing what it does and what problem it solves.
-`Node.js` · `NestJS` · `TypeScript` · `Redis`
-[Repo](https://github.com/Hradivnyk) · [Live Demo](#)
+**[Release Owl](https://github.com/GenesisEducationKyiv/software-engineering-school-6-0-Hradivnyk)**
+A service that tracks GitHub repositories and automatically notifies subscribers via email when a new release is published, solving the problem of manually monitoring open-source project updates.
+`Node.js` · `TypeScript` · `Express` · `PostgreSQL` · `Docker` · `Playwright` · `Jest` · `ELK Stack` · `Prometheus` · `Grafana`
+[Repo](https://github.com/GenesisEducationKyiv/software-engineering-school-6-0-Hradivnyk) · [Live Demo](https://releaseowl.stashohulia.dev/)
 
-**[Project Name](https://github.com/Hradivnyk)**
-One sentence describing what it does and what problem it solves.
-`Vue.js` · `React` · `TypeScript` · `AWS`
-[Repo](https://github.com/Hradivnyk) · [Live Demo](#)
+**[Ustriy System](https://github.com/Hradivnyk/ustriy-system)**
+A repair request management platform for student dormitories — residents submit tickets via Telegram bot, staff manages them through an admin panel with role-based access control.
+`TypeScript` · `Node.js` · `NestJS` · `Next.js` · `React` · `PostgreSQL` · `Redis` · `JWT` · `Google OAuth` · `Telegram Bot API` · `Docker`
+[Repo](https://github.com/Hradivnyk/ustriy-system) · [Live Demo](https://ustriy.stashohulia.dev/)
 
-**[Project Name](https://github.com/Hradivnyk)**
-One sentence describing what it does and what problem it solves.
-`Node.js` · `Vue.js` · `Docker` · `Next.js`
-[Repo](https://github.com/Hradivnyk) · [Live Demo](#)
+**[Portfolio](https://github.com/Hradivnyk/my-portfolio)**
+A blazing-fast personal portfolio built with Astro v5 and deployed to AWS via automated CI/CD — a developer's digital identity card that loads instantly and scales globally through CloudFront CDN.
+`Astro v5` · `TypeScript` · `AWS S3` · `CloudFront` · `GitHub Actions` · `GSAP`
+[Repo](https://github.com/Hradivnyk/my-portfolio) · [Live Demo](https://stashohulia.dev/)
+
+**[AppBlocker](https://github.com/Hradivnyk/app-blocker)**
+A Windows productivity tool that blocks distracting apps on a schedule — built end-to-end via AI agent engineering using a completely unfamiliar stack (.NET/WPF) to explore human-AI collaborative development.
+`.NET 8` · `C# 12` · `WPF / XAML` · `MVVM` · `Entity Framework Core` · `SQLite` · `Quartz.NET` · `AI-Assisted Development`
+[Repo](https://github.com/Hradivnyk/app-blocker) · [Download](#)
 
 <!-- SECTION: GitHub Stats -->
 ## ⚙️ &nbsp;GitHub Analytics
