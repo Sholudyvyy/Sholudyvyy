@@ -23,7 +23,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-<img alt="Programmer" src="assets/programmer.webp" width="260" align="right"/>
+<img alt="Programmer" src="assets/programmer.webp" align="right"/>
 
 **Frontend**\
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)&nbsp;
