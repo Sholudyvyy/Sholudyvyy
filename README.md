@@ -40,8 +40,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-<br clear="right"/>
-
 <!-- SECTION: Projects — fill in name, links, and description for each -->
 ## 🚀 Selected Projects
 
