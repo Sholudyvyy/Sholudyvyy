@@ -15,7 +15,7 @@
 <!-- SECTION: Tech Stack -->
 ## 🛠 Tech Stack
 
-<img alt="Programmer" src="assets/programmer.webp" width="360" align="right"/>
+<img alt="Programmer" src="assets/programmer.webp" width="180" align="right"/>
 
 **Backend**\
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)&nbsp;
